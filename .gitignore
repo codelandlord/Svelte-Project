@@ -1,0 +1,27 @@
+# Dependency directory
+/node_modules/
+
+# Build output
+/public/build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional editor settings
+.vscode/
+
+# Environment variables
+.env
+.env.* # In case you later add .env files
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Rollup cache (optional but helpful)
+.rollup.cache/
